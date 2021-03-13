@@ -1,2 +1,2 @@
 # Deploy-Model-In-AWS
-Repo dedicated to deploying an image classification model in AWS
+Repo dedicated to deploying an object detection model in AWS
